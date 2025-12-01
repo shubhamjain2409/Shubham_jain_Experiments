@@ -16,5 +16,5 @@ def binary_search(arr,target):
 
     return -1
 
-
+# This is a function for binary search algorithm. 
         
