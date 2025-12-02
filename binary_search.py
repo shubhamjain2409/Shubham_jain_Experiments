@@ -19,3 +19,4 @@ def binary_search(arr,target):
 
 
 # This is a function for binary search.
+# This is a function. Merge it
