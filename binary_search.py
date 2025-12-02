@@ -18,4 +18,4 @@ def binary_search(arr,target):
     return -1
 
 
-# This is a function. 
+# This is a function. Merge it
