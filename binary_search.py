@@ -1,7 +1,8 @@
 def binary_search(arr,target):
 
     l = 0
-    r = len(arr) - 1
+    n = len(arr)
+    r = n - 1
 
     while(l<=r):
         mid = l + (r-l)//2
@@ -16,5 +17,5 @@ def binary_search(arr,target):
 
     return -1
 
-# This is a function for binary search algorithm. 
-        
+
+# This is a function for binary search.
