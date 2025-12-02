@@ -2,7 +2,7 @@ def binary_search(arr,target):
 
     l = 0
     n = len(arr)
-    r = n - 1
+    r = n - 2
 
     while(l<=r):
         mid = l + (r-l)//2
